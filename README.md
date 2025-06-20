@@ -10,6 +10,11 @@ The app intelligently classifies users into risk categories using trained ML mod
 
 ---
 
+## 🚀 Try the App
+
+🔗 [Launch Credit Risk App] (https://health-insurance-cost-predictor-ml.streamlit.app/)
+---
+
 ## 🚀 Key Features
 
 ✅ Predicts annual **health insurance costs**  
